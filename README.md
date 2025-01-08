@@ -1,4 +1,5 @@
-=== Plugin Name ===
+=== Ninja Forms - Delete Uploads ===
+
 Tags: ninja, forms, uploads
 Requires at least: 
 Tested up to: 6.7.1
